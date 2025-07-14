@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 
-gem 'graphql-client', '~> 0.18.0'
+gem 'graphql-client', '~> 0.19.0'
 gem 'kramdown', '~> 2.4.0'
 gem 'nokogiri', '~> 1.16.5'
 gem 'sentry-raven', '~> 3.1.2'
