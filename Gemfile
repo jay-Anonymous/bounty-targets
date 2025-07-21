@@ -10,7 +10,7 @@ gem 'ssrf_filter', '~> 1.0.8'
 gem 'twingly-url', '~> 6.0.4'
 
 group :development, :test do
-  gem 'bundler-audit', '~> 0.9.1'
+  gem 'bundler-audit', '~> 0.9.2'
   gem 'coveralls', '~> 0.8.23'
   gem 'pry-byebug', '~> 3.10.1'
   gem 'rspec', '~> 3.11.0'
