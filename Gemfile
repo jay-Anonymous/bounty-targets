@@ -14,7 +14,7 @@ group :development, :test do
   gem 'coveralls', '~> 0.8.23'
   gem 'pry-byebug', '~> 3.10.1'
   gem 'rspec', '~> 3.11.0'
-  gem 'rubocop', '~> 1.35.1'
-  gem 'rubocop-rspec', '~> 2.12.1'
+  gem 'rubocop', '~> 1.66.0'
+  gem 'rubocop-rspec', '~> 2.13.0'
   gem 'webmock', '~> 3.18.1'
 end
